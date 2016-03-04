@@ -1,0 +1,13 @@
+layout_spectrum: 1
+color:
+  saturation: 0.9970014
+  lightness: 0.682595
+  brandStrength: 0.7673934
+  brandColors:
+    - '#000000'
+    - '#004684'
+    - '#77A4C6'
+    - '#C6D8E8'
+  rhythmicContrast: 0.5392125
+typography_spectrum: 0.5663083
+name: domsteil
